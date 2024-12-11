@@ -1,1 +1,1 @@
- LINK: https://github.com/Patelmahin/Fly-Away.git
+ LINK: https://patelmahin.github.io/eat-n-split/
